@@ -4,22 +4,22 @@ Esta aplicación permite calcular el valor del **Dolar MEP** y **Dolar CABLE** a
 
 ## Instalación
 Crear entorno virtual
-"""
+'''
 virtualenv env
-"""
+'''
  
 Activar entorno en **Linux**
-"""
+'''
 source env/bin/activate
-"""
+'''
 
 Activar entorno en **Windows** 
-"""
+'''
 env\Scripts\activate
-"""
+'''
 
 Instalar librería websockets y ejecutar
-"""
+'''
 pip install websockets
 python balanz.py
-"""
+'''
